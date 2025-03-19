@@ -1,7 +1,7 @@
 # Coding Portfolio
 
 ## About Me
-I am a software developer specializing in Rust, Python, and backend systems. My work involves building integrations between business
+I am a software developer specializing in Rust, Python, and backend systems. My work involves building integrations between business applications.
 
 ---
 
